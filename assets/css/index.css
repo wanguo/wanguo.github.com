@@ -190,17 +190,17 @@ body {
 
 .logo {
     font-size: 28px;
-    width: 150px;
+    width: 180px;
     color: #000;
     font-weight: bold;
     display: block;
 }
 
 .description {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: normal;
     line-height: 18px;
-    margin: 5px 0 0 0;
+    margin: 0;
     color: #96999D;
 }
 
@@ -219,8 +219,7 @@ body {
 }
 
 .menu-nav ul li.current a {
-    background: #FEEA36;
-    color: #3A3C3D
+    color: #FF8C00
 }
 
 .menu-nav ul li.current a:hover {
@@ -498,6 +497,15 @@ blockquote {
     font-size: 14px;
     color: #66696D;
     line-height: 16px;
+}
+
+.j_post_list {
+    border-bottom: 1px solid #F3F3F3;
+    padding: 10px;
+    margin: 0 0 10px 0;
+    font-size: 14px;
+    color: #333;
+    line-height: 14px;
 }
 
 .j_post_main {
