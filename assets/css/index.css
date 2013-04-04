@@ -2,7 +2,7 @@ html {
     background: #fff;
 }
 
-body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+body, div, dl, dt, dd, ul, ol, li, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
     margin: 0;
     padding: 0;
 }
@@ -60,11 +60,6 @@ address, caption, cite, code, dfn, em, th, var {
 
 ol, ul {
     list-style: none;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-size: 100%;
-    font-weight: 500;
 }
 
 q:before, q:after {
@@ -211,6 +206,7 @@ body {
 
 .menu-nav {
     margin-top: 15px;
+    font-size: 18px;
 }
 
 .menu-nav ul {
