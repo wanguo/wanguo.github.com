@@ -213,6 +213,8 @@ body .hidden {
 
 #index_banner {
     margin:20px auto;
+    width: 800px;
+    height: 100px;
 }
 
 #content {
