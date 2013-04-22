@@ -197,24 +197,18 @@ body .hidden {
 }
 
 #menu {
-    margin-left: 55px;
-    padding-top: 20px;
-}
-
-#menu li {
-    float: left;
-    margin-left: 45px;
+    margin-left: 0px;
+    padding-top: 10px;
 }
 
 #menu li a {
-    font-size: 20px;
     color: orange;
 }
 
 #index_banner {
-    margin:20px auto;
+    margin:0px auto;
     width: 800px;
-    height: 100px;
+    height: 250px;
 }
 
 #content {
