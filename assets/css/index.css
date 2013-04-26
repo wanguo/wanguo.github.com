@@ -305,6 +305,15 @@ body .hidden {
     float: left;
 }
 
+.j_post {
+    width: 650px;
+}
+
+.j_post_main {
+    width: 600px;
+    overflow: hidden;
+}
+
 #activity_head {
     width:100%;
     height: 25px;
