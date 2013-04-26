@@ -289,8 +289,17 @@ body .hidden {
     float: right;
 }
 
+#content #main {
+    float: left;
+}
+
+#content #left {
+    width: 250px;
+    float: right;
+}
+
 #activity {
-    width: 700px;
+    width: 680px;
     height: 300px;
     border: 1px solid #ccc;
     float: left;
@@ -311,7 +320,7 @@ body .hidden {
 #activity ul li {
     float: left;
     margin-top: 10px;
-    margin-left: 20px;
+    margin-left: 15px;
     width: 150px;
     height: 260px;
     text-align: center;
@@ -327,7 +336,7 @@ body .hidden {
 }
 
 #links {
-    width: 230px;
+    width: 250px;
     float: right;
     height: 300px;
     border: 1px solid #ccc;
